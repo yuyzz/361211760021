@@ -11,6 +11,7 @@ public class MyCode {
     System.out.println("id:021");
     System.out.println("group:สารสนเทศ");
     System.out.println("println:มทร.");
+    System.out.println("123456"); 
 
 
 
